@@ -1,0 +1,1 @@
+- las coordenadas del input deben ser ingresados en mayúscula, ej: "A5" (no "a5")
